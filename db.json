@@ -1,10 +1,10 @@
 { 
     "names": {
-            "first-name": [
+            "firstName": [
          "Troubadoura", "Jimothy", "Trout", "Axl", "Craig", "Craggle", "Shiro", "ED-209", "Nephew", "Sundai", "Uncle"
      
     ],
-    "last-name": [
+    "lastName": [
         "Wazowski", "Berbigglebottom", "Voncle", "Bongle", "Shrimp", "Cousins", "Schule", "Soup", "Krakor", "Bean"
     ]
 
