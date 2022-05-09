@@ -1,0 +1,19 @@
+{
+  "name": "name-api",
+  "version": "1.0.0",
+  "description": "name generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wolfskillobyte/name-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wolfskillobyte/name-api/issues"
+  },
+  "homepage": "https://github.com/wolfskillobyte/name-api#readme"
+}
